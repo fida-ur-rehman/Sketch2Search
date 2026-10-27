@@ -142,9 +142,3 @@ Graphics, 35(4), Article 119. https://doi.org/10.1145/2897824.2925954
 ## Author
 
 **Fida Ur Rehman**
-
-------------------------------------------------------------------------
-
-Created for academic evaluation. Cite the original dataset and research
-papers when reusing this work, and verify dataset licensing before
-redistribution.
