@@ -91,27 +91,6 @@ The experiment was developed in Google Colab.
 5.  Run the cells in order to prepare the data, train the model, select
     the checkpoint, create the strict gallery, and evaluate both models.
 
-Exact package versions and a standalone command-line entry point are not
-specified here. Add them if you want to reproduce the project outside
-Colab.
-
-## Suggested repository structure
-
-``` text
-Sketch2Search/
-├── README.md
-├── notebooks/
-│   └── Sketch2Search.ipynb
-├── figures/
-│   ├── training_validation_loss.png
-│   ├── retrieval_metrics.png
-│   └── qualitative_retrieval_examples.png
-└── requirements.txt
-```
-
-This is a suggested structure, not a claim about files already in the
-repository. Update filenames to match your actual files.
-
 ## Limitations and future work
 
 -   Only nine independent test objects were evaluated.
